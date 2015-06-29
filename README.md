@@ -48,8 +48,6 @@ UIApplication.sharedApplication.delegate;
 
 * Indent using 4 spaces. Never indent with tabs. This should be configured on the project.
 
-  ![Xcode indent settings](https://raw.githubusercontent.com/hyperoslo/iOS-playbook/master/assets/xcode-text-settings-objc.png) 
-
 * `if`/`else`/`switch`/`while` and friends should always open on the same line as the statement, conditions like else or do that follow if or while respectively start in the same line where the previous condition ends.
 
 **For example:**
